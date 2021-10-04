@@ -8,4 +8,8 @@
 *.bcf
 *.run.xml
 *.out
-
+__pycache__/
+*.fdb_latexmk
+*.fls
+*.pdf
+metadata.tex
