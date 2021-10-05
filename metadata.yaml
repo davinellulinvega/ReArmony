@@ -44,7 +44,7 @@ code:
 # Data URL and DOI (optional if no data)
 data:
   - url:
-  - doi:
+  - doi: 10.5281/zenodo.5550570
 
 # Information about the original article that has been replicated
 replication:
