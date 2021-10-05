@@ -30,7 +30,7 @@ affiliations:
 
 
 # List of keywords (adding the programming language might be a good idea)
-keywords: rescience c, rescience x
+keywords: Computational Neuroscience, Classical Conditioning, Python
 
 # Code URL and DOI/SWH (url is mandatory for replication, doi after acceptance)
 # You can get a DOI for your code from Zenodo, or an SWH identifier from
@@ -54,16 +54,8 @@ replication:
  - doi: "10.1037/0735-7044.109.2.246" # Regular digital object identifier
 
 # Don't forget to surround abstract with double quotes
-abstract: "Three years have passed since ReScience published its first article
-           and since September 2015, things have been going steadily. We're
-           still alive, independent and without a budget. In the meantime, we
-           have published around 20 articles (mostly in computational
-           neuroscience & computational ecology) and the initial has grown
-           from around 10 to roughly 100 members (editors and reviewers), we
-           have advertised ReScience at several conferences worldwide, gave
-           some interviews and we published an article introducing ReScience in
-           PeerJ. Based on our experience at managing the journal during these
-           three years, we think the time is ripe for proposing some changes."
+abstract: "This article presents a replication of the computational model and classical conditioning experiment initially published in the article entitled: \"An anatomically constrained neural network model of fear conditioning\". In the original paper, the author identified a set of principles underlying the mechanisms for transmitting information from the thalamus to the amygdala as suggested by the theory of the \"Two-pathways to the amygdala\". Through a simulated classical conditioning experiment, the author's goal is to validate the design principles by showing that the computational model is able to account for sets of physiological and behavioral findings from conditioning studies on animals. A second aim of the original article was to emphasize the usefulness of computer modeling as a tool to help neuroscience move forward. Here I show that I was able to re-implement the computational model described by Armony et al. (1995), as well as replicate the results initially published. Individual units within the model exhibited differences in activation after the conditioning phase which is consistent with empirical results from cell recording studies. Similarly, the behavioral output of the network matches experimental results from the classical conditioning paradigm. Therefore, the principles on which the computational model is built are valid. Moreover, the model has since proved its usefulness by being able to predict the outcome of lesion studies on the parallel pathways used by the brain to carry stimuli from the thalamus to the amygdala.
+"
 
 # Bibliography file (yours)
 bibliography: bibliography.bib
